@@ -3,6 +3,22 @@
   </div>
 
 
+
+---
+
+### :hammer_and_wrench: Languages and Tools : 
+<div> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50" height="50" frameBorder="0" allowFullScreen>
+ 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50" frameBorder="0" allowFullScreen>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" width="50" height="50" frameBorder="0" allowFullScreen>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="50" height="50" frameBorder="0" allowFullScreen>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" width="50" height="50" frameBorder="0" allowFullScreen>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="50" height="50 frameBorder="0" allowFullScreen>
+        
+</div>
+
+
 <!--
 **updatedelete/updatedelete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
