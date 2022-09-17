@@ -1,4 +1,7 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/POU01YSFVn8zK/giphy.gif" width="800" height="400" frameBorder="0" allowFullScreen><p><a>"The secret of being a bore is to tell everything."  </br></p></a>
+  </div>
+
 
 <!--
 **updatedelete/updatedelete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
