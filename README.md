@@ -18,19 +18,17 @@
         
  ---
  
+<img src="https://media.giphy.com/media/d8XKE7CriXaXrY1RbT/giphy.gif" alt="side Image" align="right" width="300" height="auto" data-animated-image="" style="max-width: 100%;"> 
+- 🔭 I’m currently working on sharing past projects and learning Machine Learning 
+- ⚡ Fun fact: I love math and solving puzzles 🥰 
  
-- 🔭 I’m currently working on my github profile and sharing past projects
-- ⚡ Fun fact: I love math 🥰
-
-
-  
 
 <!--
 **updatedelete/updatedelete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my github profile and sharing projects I've worked on...
+- 🔭 I’m currently working on my github profile, sharing projects I've worked on...
 - ⚡ Fun fact: I love math 🥰
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
