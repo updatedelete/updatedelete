@@ -19,7 +19,7 @@
  ---
  
 <img src="https://media.giphy.com/media/d8XKE7CriXaXrY1RbT/giphy.gif" alt="side Image" align="right" width="300" height="auto" data-animated-image="" style="max-width: 100%;"> 
-- 🔭 I’m currently working on sharing projects I think others will find usefull 
+- 🔭 I’m currently working on sharing projects I believe someone will find usefull 
 - ⚡ Fun fact: I love solving puzzles 🥰 
  
 
