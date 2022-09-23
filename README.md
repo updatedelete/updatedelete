@@ -8,19 +8,19 @@
 
 ### :hammer_and_wrench: Languages and Tools : 
 <div> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50" height="50" frameBorder="0" allowFullScreen> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50" frameBorder="0" allowFullScreen>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" width="50" height="50" frameBorder="0" allowFullScreen>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="50" height="50" frameBorder="0" allowFullScreen>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" width="50" height="50" frameBorder="0" allowFullScreen>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="50" height="50" frameBorder="0" allowFullScreen>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="35" height="35" frameBorder="0" allowFullScreen> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="35" height="35" frameBorder="0" allowFullScreen>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" width="35" height="35" frameBorder="0" allowFullScreen>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="35" height="35" frameBorder="0" allowFullScreen>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" width="35" height="35" frameBorder="0" allowFullScreen>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="35" height="35" frameBorder="0" allowFullScreen>
         </div>
         
  ---
  
 <img src="https://media.giphy.com/media/d8XKE7CriXaXrY1RbT/giphy.gif" alt="side Image" align="right" width="300" height="auto" data-animated-image="" style="max-width: 100%;"> 
-- 🔭 I’m currently working on sharing past projects and learning Machine Learning 
-- ⚡ Fun fact: I love math and solving puzzles 🥰 
+- 🔭 I’m currently working on sharing projects I think others will find usefull 
+- ⚡ Fun fact: I love solving puzzles 🥰 
  
 
 <!--
